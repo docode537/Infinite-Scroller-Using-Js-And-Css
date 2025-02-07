@@ -4,7 +4,7 @@ An **Infinite Scrolling Animation** built with **pure JavaScript and CSS**, wher
 
 🚀 **Live Demo & Explanation:**  
 - 📖 **Blog Post**: [Read the detailed guide here](#123)  
-- 🎥 **YouTube Video**: [Watch the tutorial](#)  
+- 🎥 **YouTube Video**: [Watch the tutorial](https://youtu.be/U_HcoLlLDAs?si=05hzi1avZBCT6i6u)  
 - 📷 **YouTube Channel**: [Youtube Channel](https://www.youtube.com/@docode537)  
 ---
 
